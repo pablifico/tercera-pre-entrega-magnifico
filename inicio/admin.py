@@ -1,5 +1,5 @@
 from django.contrib import admin
-from inicio.models import Jugador, Persona
+from inicio.models import Jugador,
 
 # Register your models here.
 
